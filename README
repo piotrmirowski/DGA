@@ -1,0 +1,33 @@
+Statistical Machine Learning and Dissolved Gas Analysis
+
+An appendix to the paper submission 
+"Statistical Machine Learning and Dissolved Gas Analysis: A Review" 
+that describes the machine learning algorithms with further details, 
+is available at: http://cs.nyu.edu/~mirowski/pub/dga/MLreview4DGOA_Appendix.pdf
+
+Download the Matlab toolbox, as well as the public DGA data from [1] 
+in Matlab format, at:
+http://cs.nyu.edu/~mirowski/pub/dga/SML4DGA.zip
+
+Requirements:
+The following libraries need to be installed 
+(and the Matlab paths configured accordingly):
+LibSVM with Matlab interface, 
+available at: http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+Low-Density Separation, available at: http://olivier.chapelle.cc/lds/
+The Matlab Statistics Toolbox
+
+Installation:
+After download, unzip and configure the required paths.
+
+Tutorial:
+In directory Code_Duval, execute under Matlab Duval.m.
+
+License:
+Please refer to the GNU General Public License, 
+available at: http://www.gnu.org/
+
+References:
+M. Duval and A. dePablo, "Interpretation of gas-in-oil analysis using new IEC 
+publication 60599 and IEC TC 10 databases", 
+IEEE Electrical Insulation Magazine, vol. 17, pp. 3141, 2001.
