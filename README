@@ -6,12 +6,12 @@ Companion code for the paper:
 P Mirowski, Y LeCun
 Power Delivery, IEEE Transactions on, 2012
 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6301810
-http://www.cs.nyu.edu/~mirowski/pub/PiotrMirowski_IEEEPowerDelivery_2012_Final.pdf
+http://engineering.nyu.edu/power/sites/engineering.nyu.edu.power/files/uploads/DGOA%20predictive.pdf
 
 An appendix to the paper submission 
 "Statistical Machine Learning and Dissolved Gas Analysis: A Review" 
 that describes the machine learning algorithms with further details, 
-is available at: http://cs.nyu.edu/~mirowski/pub/dga/MLreview4DGOA_Appendix.pdf
+is available at: https://piotrmirowski.files.wordpress.com/2020/01/mlreview4dgoa_appendix.pdf
 
 
 Requirements:
