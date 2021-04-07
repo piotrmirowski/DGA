@@ -22,7 +22,11 @@ available at: http://www.csie.ntu.edu.tw/~cjlin/libsvm/
 Low-Density Separation, available at: http://olivier.chapelle.cc/lds/
 The Matlab Statistics Toolbox
 
-A copy of the `bolasso` library is available in this repository.
+A copy of the `bolasso` library is available in this repository. 
+It was taken from repository:
+[github.com/probml/pmtk1](https://github.com/probml/pmtk1/tree/master/pmtk/optim/Lasso) 
+by Matthew Dunham and it is an implementation of Francis R. Bach's Bolasso algorithm
+described in his [ICML 2008 paper](http://www.di.ens.fr/~fbach/icml_bolasso.pdf).
 
 
 ## Installation:
