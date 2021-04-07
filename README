@@ -1,4 +1,4 @@
-Statistical Machine Learning and Dissolved Gas Analysis
+# Statistical Machine Learning and Dissolved Gas Analysis
 
 
 Companion code for the paper:
@@ -14,7 +14,7 @@ that describes the machine learning algorithms with further details,
 is available at: https://piotrmirowski.files.wordpress.com/2020/01/mlreview4dgoa_appendix.pdf
 
 
-Requirements:
+## Requirements:
 The following libraries need to be installed 
 (and the Matlab paths configured accordingly):
 LibSVM with Matlab interface, 
@@ -22,22 +22,24 @@ available at: http://www.csie.ntu.edu.tw/~cjlin/libsvm/
 Low-Density Separation, available at: http://olivier.chapelle.cc/lds/
 The Matlab Statistics Toolbox
 
+A copy of the `bolasso` library is available in this repository.
 
-Installation:
+
+## Installation:
 After download, unzip and configure the required paths.
 
 
-Tutorial:
+## Tutorial:
 In directory Code_Duval, execute under Matlab the following file:
 Duval.m
 
 
-License:
+## License:
 Please refer to the GNU General Public License, 
 available at: http://www.gnu.org/
 
 
-References for the data:
+## References for the data:
 M. Duval and A. dePablo, "Interpretation of gas-in-oil analysis using new IEC 
 publication 60599 and IEC TC 10 databases", 
 IEEE Electrical Insulation Magazine, vol. 17, pp. 3141, 2001.
